@@ -1,4 +1,3 @@
-
 # Hi, I'm SHIYI LI 👋
 
 I'm an AI Convergence student at Sungkyunkwan University,
